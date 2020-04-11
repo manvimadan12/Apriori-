@@ -1,2 +1,2 @@
-# Market-Basket-Analysis
-This repository contains the algorithms to do Association Rule Learning to perform Market Basket Analysis
+# Apriori
+This repository contains the implemenation of Apriori algoruthm in Python to do Association Rule Learning and perform Market Basket Analysis
